@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "keysym.h": "c",
+        "keysymdef.h": "c"
+    }
+}
