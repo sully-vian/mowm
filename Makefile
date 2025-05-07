@@ -1,7 +1,7 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -pedantic -std=c99
 LDFLAGS = -lX11
-SRC = src/mowm.c
+SRC = src/main.c src/events.c src/apps.c src/utils.c
 OUT = mowm
 DISPLAY1 = DISPLAY=:1
 KILL = pkill Xephyr || true;

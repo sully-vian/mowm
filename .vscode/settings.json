@@ -2,6 +2,12 @@
     "files.associations": {
         "*.ejs": "html",
         "keysym.h": "c",
-        "keysymdef.h": "c"
+        "keysymdef.h": "c",
+        "string.h": "c",
+        "avx512vpopcntdqintrin.h": "c",
+        "stdlib.h": "c",
+        "utils.h": "c",
+        "apps.h": "c",
+        "events.h": "c"
     }
 }
